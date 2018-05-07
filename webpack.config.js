@@ -40,7 +40,7 @@ module.exports = {
   },
   devServer: {
     contentBase: "./",
-    historyApiFallback: true, // 404 -> index.html
+    index: 'index.dev.html',
     inline: true,
     hot: true
   },
