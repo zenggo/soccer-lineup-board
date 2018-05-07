@@ -38,7 +38,7 @@ export default class Main extends React.Component
       </div>
       <div className={styles['mid-wrap']}>
         <Ground dispatch={this.handleChange} starters={starters} isShowFieldDroper={isShowFieldDroper} />
-        <img className={styles['ground-bg']} src="/imgs/ground.jpeg" />
+        <img className={styles['ground-bg']} src="./imgs/ground.jpeg" />
       </div>
       <div className={styles['right-panel']}>
         <RightPanel dispatch={this.handleChange} substitutes={substitutes} isShowRightDroper={isShowRightDroper} />

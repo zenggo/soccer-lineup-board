@@ -3,133 +3,133 @@
     "name": "Messi",
     "number": 10,
     "position": "SS",
-    "avatar": "/imgs/messi.jpeg",
+    "avatar": "./imgs/messi.jpeg",
     "id": 1
   },
   {
     "name": "Zidane",
     "number": 21,
     "position": "AM",
-    "avatar": "/imgs/zidane.jpeg",
+    "avatar": "./imgs/zidane.jpeg",
     "id": 2
   },
   {
     "name": "Ronaldo",
     "number": 9,
     "position": "CF",
-    "avatar": "/imgs/ronaldo.jpeg",
+    "avatar": "./imgs/ronaldo.jpeg",
     "id": 3
   },
   {
     "name": "C-Ronaldo",
     "number": 7,
     "position": "LW",
-    "avatar": "/imgs/cr.jpeg",
+    "avatar": "./imgs/cr.jpeg",
     "id": 4
   },
   {
     "name": "李毅",
     "number": 9,
     "position": "CF",
-    "avatar": "/imgs/liyi.jpeg",
+    "avatar": "./imgs/liyi.jpeg",
     "id": 5
   },
   {
     "name": "中村俊辅",
     "number": 21,
     "position": "AM",
-    "avatar": "/imgs/nakata.jpeg",
+    "avatar": "./imgs/nakata.jpeg",
     "id": 6
   },
   {
     "name": "kante",
     "number": 7,
     "position": "DM",
-    "avatar": "/imgs/kante.jpeg",
+    "avatar": "./imgs/kante.jpeg",
     "id": 7
   },
   {
     "name": "viera",
     "number": 4,
     "position": "DM",
-    "avatar": "/imgs/viera.jpeg",
+    "avatar": "./imgs/viera.jpeg",
     "id": 8
   },
   {
     "name": "fabregas",
     "number": 15,
     "position": "CM",
-    "avatar": "/imgs/fabregas.jpeg",
+    "avatar": "./imgs/fabregas.jpeg",
     "id": 9
   },
   {
     "name": "pirlo",
     "number": 21,
     "position": "CM",
-    "avatar": "/imgs/pirlo.jpeg",
+    "avatar": "./imgs/pirlo.jpeg",
     "id": 10
   },
   {
     "name": "carlos",
     "number": 3,
     "position": "LB",
-    "avatar": "/imgs/carlos.jpeg",
+    "avatar": "./imgs/carlos.jpeg",
     "id": 11
   },
   {
     "name": "maicon",
     "number": 13,
     "position": "RB",
-    "avatar": "/imgs/maicon.jpeg",
+    "avatar": "./imgs/maicon.jpeg",
     "id": 12
   },
   {
     "name": "mardini",
     "number": 3,
     "position": "LB",
-    "avatar": "/imgs/maldini.jpeg",
+    "avatar": "./imgs/maldini.jpeg",
     "id": 13
   },
   {
     "name": "beckham",
     "number": 7,
     "position": "RM",
-    "avatar": "/imgs/beckham.jpeg",
+    "avatar": "./imgs/beckham.jpeg",
     "id": 14
   },
   {
     "name": "bale",
     "number": 11,
     "position": "RM",
-    "avatar": "/imgs/bale.jpeg",
+    "avatar": "./imgs/bale.jpeg",
     "id": 15
   },
   {
     "name": "kahn",
     "number": 1,
     "position": "GK",
-    "avatar": "/imgs/kahn.jpeg",
+    "avatar": "./imgs/kahn.jpeg",
     "id": 16
   },
   {
     "name": "Lucio",
     "number": 3,
     "position": "CB",
-    "avatar": "/imgs/lucio.jpeg",
+    "avatar": "./imgs/lucio.jpeg",
     "id": 17
   },
   {
     "name": "Samuel",
     "number": 6,
     "position": "CB",
-    "avatar": "/imgs/samuel.jpeg",
+    "avatar": "./imgs/samuel.jpeg",
     "id": 18
   },
   {
     "name": "Puyol",
     "number": 5,
     "position": "CB",
-    "avatar": "/imgs/puyol.jpeg",
+    "avatar": "./imgs/puyol.jpeg",
     "id": 19
   }
 ]
